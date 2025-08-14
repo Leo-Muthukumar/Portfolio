@@ -1,4 +1,4 @@
-y# Hi there, I'm Muthukumar p, an <a href="https://www.linkedin.com/in/muthukumar-pandi/">IT Professional</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+# Hi there, I'm Muthukumar p, an <a href="https://www.linkedin.com/in/muthukumar-pandi/">IT Professional</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 My journey began with a curiosity for understanding how software and systems work, leading me to learn more about network security, file sharing, active directory and more.
 
